@@ -4,7 +4,6 @@ venv/
 
 # Environment variables
 .env
-.env.*
 
 # Logs (we'll manually add the sample logs later)
 logs/*.log
